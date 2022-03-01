@@ -16,7 +16,7 @@ Jika kamu ingin mencoba memainkan Game ini, silahkan klik **[Download!](https://
 
 
 ### English
-If you want to try playing this game, please click **[Download!(https://m-edukasi.kemdikbud.go.id/medukasi/?m1=lomba&produksi=2018&kd=ME18LOMUGE09)**
+If you want to try playing this game, please click **[Download!](https://m-edukasi.kemdikbud.go.id/medukasi/?m1=lomba&produksi=2018&kd=ME18LOMUGE09)**
 - Computer Peripheral Educational Games
 - Platform : Unity
 - Format : Game
