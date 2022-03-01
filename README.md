@@ -5,7 +5,7 @@ Jika kamu ingin mencoba memainkan Game ini, silahkan klik **[Download!](https://
 - Platform : Unity
 - Format : Game
 - Ukuran : 50,094 KB
-- Author: _**Guruh Setyo Wicahyo**_
+- Author: _**[Guruh Setyo Wicahyo](https://github.com/g212channel)**_
 
 > Sinopsis: Game Periferal Komputer memiliki misi perjalanan mulai dari membeli periferal komputer hingga pulang kerumah, selama perjalanan pemain akan di beri berbagai rintangan dan pertanyaan seputar periferal komputer. selain permainan tersebut terdapat juga mode belajar yang berisi pengetahuan tentang perawatan periferal komputer dan mendiagnosa kesalahan pada periferal komputer. selain itu terdapat video tambahan pada menu belajar untuk memberikan penjelasan yang lebih baik.
 
@@ -21,7 +21,7 @@ If you want to try playing this game, please click **[Download!](https://m-eduka
 - Platform : Unity
 - Format : Game
 - Size : 50,094 KB
-- Author: _**Guruh Setyo Wicahyo**_
+- Author: _**[Guruh Setyo Wicahyo](https://github.com/g212channel)**_
 
 > Synopsis: Computer Peripheral Game has a journey mission ranging from buying computer peripherals to returning home, during the journey the player will face various obstacles and questions about computer peripherals. In addition, the game also has a learning mode that contains computer peripheral maintenance and diagnosing errors in computer peripherals. In addition, there are additional videos on the learning menu to provide a better explanation.
 
